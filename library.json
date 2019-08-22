@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-tja1051-high-speed-low-power-can-transceiver-tja1051t",
+  "title": "tja1051-high-speed-low-power-can-transceiver-tja1051t",
+  "keywords": "tja1051-high-speed-low-power-can-transceiver-tja1051t, esp32, esp8266, arduino",
+  "description": "tja1051-high-speed-low-power-can-transceiver-tja1051t plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-tja1051-high-speed-low-power-can-transceiver-tja1051t/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-tja1051-high-speed-low-power-can-transceiver-tja1051t/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
